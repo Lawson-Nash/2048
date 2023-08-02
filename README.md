@@ -1,0 +1,1 @@
+This is an example repository with Java code for the game 2048. 
